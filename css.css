@@ -1,0 +1,21 @@
+
+.barra{
+    color: bisque;
+    background-color: blanchedalmond;
+    overflow: hidden;
+    text-align: right;
+    width: 100%;
+    position: relative;
+    padding: 20px;
+}
+
+.barra a{
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(9, 8, 7);
+    text-align: right;
+
+
+}
+
+
